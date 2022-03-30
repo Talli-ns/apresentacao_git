@@ -4,7 +4,11 @@ Teste
 
 alteraÃ§Ãµes em arquivo existente
 
+<<<<<<< HEAD
 testando um conflito
 
 
 teste 102030
+=======
+testando um conflito - tallita
+>>>>>>> 224ffe894d77d68f0e54157c5a265261152f75f6

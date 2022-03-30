@@ -1,7 +1,6 @@
 # Git - Início
 
 ## Conteúdos
-- git/github, bitbucket, gitlab
 - criando repo no git
 - markdown
 - .gitignore
@@ -13,8 +12,6 @@
 - git merge
 - teste
 - graph
-- PR
-- git flow
 
 ## Instalar o Git
 - https://git-scm.com/downloads
@@ -34,4 +31,3 @@
 - https://kevintshoemaker.github.io/StatsChats/GIT_tutorial.html
 - http://danielkummer.github.io/git-flow-cheatsheet/
 - https://greenido.wordpress.com/tag/github/
--
